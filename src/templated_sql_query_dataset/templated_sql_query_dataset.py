@@ -1,16 +1,18 @@
 # Standard Library
 import copy
-from pathlib import PurePosixPath
-from typing import Any, Dict, List, Optional, Sequence, Tuple, Union
 import logging
+
+from pathlib import PurePosixPath
+from typing import Any, Dict, Optional, Sequence, Union
 
 # Third-party
 import pandas as pd
 
 from jinja2 import Template
-from kedro.extras.datasets.pandas import SQLQueryDataSet
 from kedro.extras.datasets.json import JSONDataSet
+from kedro.extras.datasets.pandas import SQLQueryDataSet
 from kedro.io.core import get_filepath_str
+
 
 logger = logging.getLogger()
 
