@@ -2,6 +2,9 @@
 
 <!--next-version-placeholder-->
 
+## v0.4.3 (2022-11-08)
+
+
 ## v0.4.2 (2022-11-08)
 ### Fix
 * Remove text ([`55d5a33`](https://github.com/PetitLepton/templated-sql-query-dataset/commit/55d5a33b284ce195c533c9f6336cf7fedaa7f7c4))
