@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.4.4 (2022-11-08)
+### Fix
+* Add text ([`f3d0ea3`](https://github.com/PetitLepton/templated-sql-query-dataset/commit/f3d0ea3f9a83cf0e72b88e0bd972ef912ee27c05))
+
 ## v0.4.3 (2022-11-08)
 
 
