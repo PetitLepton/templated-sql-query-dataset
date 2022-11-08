@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.4.0 (2022-11-08)
+### Feature
+* Use specific action ([`7dfd228`](https://github.com/PetitLepton/templated-sql-query-dataset/commit/7dfd228286fdaa5d20492c69606a207310f920d4))
+
 ## v0.3.0 (2022-11-08)
 ### Feature
 * Test hvcs ([`9d42b90`](https://github.com/PetitLepton/templated-sql-query-dataset/commit/9d42b90a0f7bb07ab9ba23e47b40e98cae3edbc8))
