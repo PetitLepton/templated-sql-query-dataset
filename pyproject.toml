@@ -41,6 +41,7 @@ version_variable = [
     "src/templated_sql_query_dataset/__init__.py:__version__",
     "pyproject.toml:version"
 ]
+version_source = "tag"
 branch = "main"
 upload_to_pypi = false
 upload_to_release = false
