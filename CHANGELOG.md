@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.3.0 (2022-11-08)
+### Feature
+* Test hvcs ([`9d42b90`](https://github.com/PetitLepton/templated-sql-query-dataset/commit/9d42b90a0f7bb07ab9ba23e47b40e98cae3edbc8))
+
 ## v0.2.0 (2022-11-08)
 ### Feature
 * Clean semantic release ([`f4e0383`](https://github.com/PetitLepton/templated-sql-query-dataset/commit/f4e0383c3151bedfae47e99d17b07a1715175589))
