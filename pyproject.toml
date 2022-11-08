@@ -5,11 +5,11 @@ description = ""
 authors = ["Flavien Lambert"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "src/templated_sql_query_dataset"}]
+packages = [{ include = "src/templated_sql_query_dataset" }]
 
 [tool.poetry.dependencies]
 python = "~3.9"
-kedro = {extras = ["pandas"], version = "^0.18.3"}
+kedro = { extras = ["pandas"], version = "^0.18.3" }
 Jinja2 = "^3.1.2"
 pandas = "^1.5.1"
 
@@ -40,7 +40,7 @@ build-backend = "poetry.core.masonry.api"
 [tool.semantic_release]
 version_variable = [
     "src/templated_sql_query_dataset/__init__.py:__version__",
-    "pyproject.toml:version"
+    "pyproject.toml:version",
 ]
 version_source = "tag"
 commit_version_number = true
@@ -48,5 +48,5 @@ commit_subject = "chore(release): v{version}"
 commit_message = "Released version {version}. See the changelog for changes."
 branch = "main"
 upload_to_pypi = false
-upload_to_release = true
+upload_to_release = false
 build_command = false
