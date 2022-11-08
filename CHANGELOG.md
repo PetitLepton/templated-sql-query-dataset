@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.4.1 (2022-11-08)
+### Fix
+* Test no upload ([`c8516dd`](https://github.com/PetitLepton/templated-sql-query-dataset/commit/c8516ddc69de98df6fdccc3c00f28ef4f2630b45))
+
 ## v0.4.0 (2022-11-08)
 ### Feature
 * Use specific action ([`7dfd228`](https://github.com/PetitLepton/templated-sql-query-dataset/commit/7dfd228286fdaa5d20492c69606a207310f920d4))
