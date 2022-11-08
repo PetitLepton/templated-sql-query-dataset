@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "templated-sql-query-dataset"
-version = "0.0.1"
+version = "0.1.0"
 description = ""
 authors = ["Flavien Lambert"]
 license = "MIT"
@@ -17,6 +17,7 @@ pandas = "^1.5.1"
 pytest = "^7.1.3"
 ipython = "^8.5.0"
 pre-commit = "^2.20.0"
+python-semantic-release = "^7.32.2"
 
 [tool.isort]
 profile = "black"
