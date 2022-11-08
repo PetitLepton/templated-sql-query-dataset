@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "templated-sql-query-dataset"
-version = "0.4.4"
+version = "0.4.5"
 description = ""
 authors = ["Flavien Lambert"]
 license = "MIT"
