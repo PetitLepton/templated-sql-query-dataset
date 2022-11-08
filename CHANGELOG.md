@@ -2,6 +2,11 @@
 
 <!--next-version-placeholder-->
 
+## v0.4.2 (2022-11-08)
+### Fix
+* Remove text ([`55d5a33`](https://github.com/PetitLepton/templated-sql-query-dataset/commit/55d5a33b284ce195c533c9f6336cf7fedaa7f7c4))
+* Remove text ([`741fe37`](https://github.com/PetitLepton/templated-sql-query-dataset/commit/741fe37e6b5cf06b23a79933b010adf31e9b2bcc))
+
 ## v0.4.1 (2022-11-08)
 ### Fix
 * Test no upload ([`c8516dd`](https://github.com/PetitLepton/templated-sql-query-dataset/commit/c8516ddc69de98df6fdccc3c00f28ef4f2630b45))
