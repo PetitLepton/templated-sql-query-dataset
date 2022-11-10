@@ -2,6 +2,11 @@
 
 <!--next-version-placeholder-->
 
+## v0.4.6 (2022-11-10)
+### Fix
+* Update READMED.md ([`1f4bea5`](https://github.com/PetitLepton/templated-sql-query-dataset/commit/1f4bea5ec0ed6e2475775d8253a2c1b7a8d47c64))
+* Update READMED.md ([`a4649c4`](https://github.com/PetitLepton/templated-sql-query-dataset/commit/a4649c4cd2a79b6dbfcd413888d9bb7a16ac4ed9))
+
 ## v0.4.5 (2022-11-08)
 ### Fix
 * Remove release on PR ([`5020033`](https://github.com/PetitLepton/templated-sql-query-dataset/commit/5020033212e9058c9aa6fe85eb29f8aa55c853df))
