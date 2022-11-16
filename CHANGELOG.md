@@ -2,6 +2,11 @@
 
 <!--next-version-placeholder-->
 
+## v0.4.8 (2022-11-16)
+### Fix
+* Update README ([`3e0fda0`](https://github.com/PetitLepton/templated-sql-query-dataset/commit/3e0fda08fdba634b05517c4df940eaf680e347d0))
+* Test ([`8ede1c1`](https://github.com/PetitLepton/templated-sql-query-dataset/commit/8ede1c1faf1d2a33ec55e78be9b10e2e16689194))
+
 ## v0.4.7 (2022-11-11)
 ### Fix
 * Update token ([`3e06f27`](https://github.com/PetitLepton/templated-sql-query-dataset/commit/3e06f27474b25d7f535728d5c4199998e8c17a20))
